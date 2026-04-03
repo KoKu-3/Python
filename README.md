@@ -12,9 +12,9 @@
 | [🛡️ Web Header Checker](./web-header-checker/) | HTTP 보안 헤더 자동 점검 도구 | `requests`, 정규식, HTTP 프로토콜 |
 | [🔎 PII Pattern Scanner](./pii-pattern-scanner/) | 비정형 데이터 내 개인정보 패턴 탐지 | `re`, 파일 I/O, 정규식 패턴 설계 |
 | [🔌 Port Scanner](./port-scanner/) | TCP 기반 포트 스캐너 | `socket`, `threading`, 네트워크 기초 |
-|
-|
-|
+|||
+|||
+|||
 ---
 
 ## 🎯 이 저장소의 목적
